@@ -1,0 +1,1 @@
+This is a project that will eventually be ported into android and iOS
